@@ -5,3 +5,5 @@ add more infomation！ for hot-fix.
 
 Conflict merge test - master.
 Conflict merge test - hot-fix.
+
+edit on github.
