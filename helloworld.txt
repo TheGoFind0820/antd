@@ -2,3 +2,4 @@ hello world！
 hello wuyanzu！
 
 add more infomation！ for hot-fix.
+Conflict merge test - hot-fix.
